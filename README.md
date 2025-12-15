@@ -108,10 +108,6 @@ public void showcase() {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luan-LL&color=blue&style=flat-square&label=Visitantes%20do%20Perfil" alt="Contador de visitantes" />
-</div>
-
-<div align="center">
   
   **💙 "Código limpo, sistemas seguros"** 💙
   
