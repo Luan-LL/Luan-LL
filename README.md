@@ -52,13 +52,7 @@ Graduando em **Informática para Negócios** pela FATEC Rio Preto, com foco em *
       <h3>🌐 Desenvolvimento Full-Stack</h3>
       <p>Backend com Java/Spring Boot</p>
       <p>APIs RESTful</p>
-      <p>Frontend moderno e responsivo</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🛡️ Cibersegurança - Blue Team</h3>
-      <p>Defesa de Sistemas</p>
-      <p>Análise de Ameaças</p>
-      <p>Monitoramento e SOC</p>
+      <p>Frontend</p>
     </td>
   </tr>
 </table>
