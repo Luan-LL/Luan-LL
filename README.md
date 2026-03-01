@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Graduando em **Informática para Negócios** pela FATEC Rio Preto, com foco em **Desenvolvimento Back-End** e em transição para **Full-Stack**. Também tenho interesse em **Cibersegurança (Blue Team)**.
+Graduado em **Informática para Negócios** pela FATEC Rio Preto, com foco em **Desenvolvimento Back-End** e em transição para **Full-Stack**. Também tenho interesse em **Cibersegurança (Blue Team)**.
 
 **🎓 Formação:** FATEC Rio Preto - Informática para Negócio  
 **📍 Localização:** São José do Rio Preto, SP  
